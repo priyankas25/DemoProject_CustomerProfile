@@ -1,0 +1,4 @@
+[source,bash]
+----
+$ curl 'http://localhost:8080/searchByName/priyanka' -i -X GET
+----

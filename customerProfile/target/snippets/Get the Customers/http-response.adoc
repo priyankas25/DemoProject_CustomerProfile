@@ -1,0 +1,11 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 200 OK
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+Content-Type: application/json
+Content-Length: 181
+
+[{"cust_Id":1,"cust_FName":"priyanka","cust_LName":"soni","cust_Email":"user@example.com","cust_dateOfBirth":"29-04-1994","cust_registrationDate":"27-04-2024","cust_isActive":true}]
+----

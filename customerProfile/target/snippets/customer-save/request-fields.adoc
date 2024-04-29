@@ -1,0 +1,28 @@
+|===
+|Path|Type|Description
+
+|`+cust_FName+`
+|`+String+`
+|first name
+
+|`+cust_LName+`
+|`+String+`
+|last name
+
+|`+cust_Email+`
+|`+String+`
+|email
+
+|`+cust_dateOfBirth+`
+|`+String+`
+|date of birth
+
+|`+cust_registrationDate+`
+|`+String+`
+|registration date
+
+|`+cust_isActive+`
+|`+Boolean+`
+|Indicates if the Customer is active
+
+|===

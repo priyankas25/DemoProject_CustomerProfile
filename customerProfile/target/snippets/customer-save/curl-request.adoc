@@ -1,0 +1,6 @@
+[source,bash]
+----
+$ curl 'http://localhost:8080/saveCustomer' -i -X POST \
+    -H 'Content-Type: application/json;charset=UTF-8' \
+    -d '{"cust_FName": "priyanka", "cust_LName": "soni", "cust_Email": "user@example.com","cust_dateOfBirth": "29-04-1994","cust_registrationDate":"27-04-2024","cust_isActive":true}'
+----
